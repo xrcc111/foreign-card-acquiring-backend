@@ -4,4 +4,5 @@ router.prefix('/users')
 
 router.get('/', getUserInfo)
 
+
 module.exports = router
